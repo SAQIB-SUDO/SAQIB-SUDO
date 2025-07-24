@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAQIB-SUDO
+- 👋 Hi, I’m @SAQIB SHAMUS
 - 👀 I’m interested in ...diy projects
 - 🌱 I’m currently learning ...arduino 
 - 💞️ I’m looking to collaborate on ...uno board
